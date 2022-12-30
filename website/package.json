@@ -1,0 +1,10 @@
+{
+  "name": "@c1495616js/website",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
